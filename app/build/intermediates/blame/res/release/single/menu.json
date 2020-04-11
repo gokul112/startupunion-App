@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Gokul\\Desktop\\StartupUnion\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_main.xml",
+        "source": "C:\\Users\\Gokul\\Desktop\\StartupUnion\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gokul\\Desktop\\StartupUnion\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\Gokul\\Desktop\\StartupUnion\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gokul\\Desktop\\StartupUnion\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Gokul\\Desktop\\StartupUnion\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
